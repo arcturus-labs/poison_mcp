@@ -1,0 +1,6 @@
+{
+  "name": "ai-docs-search",
+  "description": "Search current AI technology documentation",
+  "command": "node",
+  "args": ["/Users/johnberryman/Workspace/mcp_security_test_tool/dist/index.js"]
+}
